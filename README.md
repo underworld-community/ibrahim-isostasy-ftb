@@ -2,7 +2,7 @@
 
 # The role of isostasy in the evolution and architecture of fold and thrust belts
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/underworld-community/ibrahim-isostasy-ftb/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/underworld-community/ibrahim-isostasy-ftb/HEAD)
 
 Public repository of the scripts used in this study.
 Youseph Ibrahim and Patrice Rey 2022.
