@@ -14,3 +14,7 @@ KC2.py is the script used to run experiment KC2, with the ductile flow mechanism
 LF2.py is the script used to run experiment LF2, which uses GFlex to implement lithospheric flexure with a lithospheric elastic thickness of 20 km.
 
 Models were run using UWGeo v2.9
+
+Cite as:
+
+Youseph Ibrahim. (2022). JoeIbrahim/Yibrahim-IsostasyFTB-Model: V1.0.1 (v1.0.1). Zenodo. https://doi.org/10.5281/zenodo.6629741
