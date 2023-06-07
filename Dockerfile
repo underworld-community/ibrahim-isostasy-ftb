@@ -2,7 +2,7 @@
 # Available images may be found at
 #   https://hub.docker.com/r/underworldcode/underworld2/tags
 #   https://hub.docker.com/r/underworldcode/uwgeodynamics/tags
-FROM underworldcode/uwgeodynamics:2.9.5
+FROM underworldcode/uwgeodynamics:v2.9.5
 
 # THE FOLLOWING WILL USUALLY NOT REQUIRE MODIFICATION.
 
