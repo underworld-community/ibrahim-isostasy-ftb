@@ -1,4 +1,9 @@
 # The role of isostasy in the evolution and architecture of fold and thrust belts
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/underworld-community/cenki-et-al-UHT-granulitic-terranes/master)
+
+![](https://github.com/underworld-community/ibrahim-isostasy-ftb/output.gif)
+
 Public repository of the scripts used in this study.
 
 Youseph Ibrahim and Patrice Rey 2022.
